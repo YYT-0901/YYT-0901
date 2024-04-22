@@ -16,6 +16,12 @@
           <span>画廊</span>
         </router-link>
       </li>
+      <li>
+        <router-link to="/game">
+          <el-icon><Cellphone /></el-icon>
+          <span>小游戏</span>
+        </router-link>
+      </li>
     </ul>
   </div>
 </template>
